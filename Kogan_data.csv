@@ -1,4 +1,4 @@
-Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,City,State,Country,Region,Market,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit,Shipping Cost,Order Priority,Delivery Days
+Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,City,State,Country,Region,Market,Product ID,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit,Shipping_Cost,Order_Priority,Delivery_Days
 IN-2022-JS156857-42035,22/01/31,1/02/22,First Class,JS-156857,Jim Sink,Corporate,Townsville,Queensland,Australia,Oceania,Asia Pacific,TEC-CO-3597,Technology,Copiers,"Brother Fax Machine, High-Speed",2565,9,0.1,28,766,Critical,1
 IN-2022-MW182207-42221,22/08/05,6/08/22,First Class,MW-182207,Mitch Webber,Consumer,Geraldton,Western Australia,Australia,Oceania,Asia Pacific,OFF-AP-3577,Office Supplies,Appliances,"Breville Refrigerator, White",4191,9,0.1,1164,614,High,1
 IN-2022-JH158207-42140,22/05/16,18/05/22,Second Class,JH-158207,John Huston,Consumer,Melbourne,Victoria,Australia,Oceania,Asia Pacific,TEC-PH-3147,Technology,Phones,"Apple Smart Phone, Cordless",2863,5,0.1,858,581,Critical,2
