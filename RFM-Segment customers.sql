@@ -1,12 +1,11 @@
--- #Q1-What is the monthly count of customers purchased products in average?
-
+-- Q1-What is the monthly count of customers purchased products in average?
 SELECT
   ROUND(AVG(customer_count), 2) AS average_customers_per_month
 FROM (
   SELECT
     EXTRACT(MONTH FROM Order_Date) AS order_month,
     EXTRACT(YEAR FROM Order_Date) AS order_year,
-    COUNT(DISTINCT customer_id) AS customer_count
+    COUNT(DISTINCT Customer_id) AS customer_count
   FROM
     Kogan_data
   GROUP BY
@@ -15,7 +14,6 @@ FROM (
     order_year DESC,
     order_month DESC
 ) AS monthly_data;
-
 
 -- Q2-What is the best-selling product in each country?
 
@@ -190,4 +188,3 @@ FROM
   rfm_segments
 ORDER BY
   rfm_cell DESC;
-
