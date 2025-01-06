@@ -15,7 +15,7 @@ This report provides actionable insights into customer behavior and segmentation
 #### **Finding 1**
 To stabilize quarterly operations, Kogan must address the significant variation in consumer spending across months. Implementing stimulus points akin to Asian platforms like Shopee, with strategic sales events on special days or during commuting hours, can boost consumer interest during low-spending months like January to April and July.
 
-#### **Finding 2**:
+#### **Finding 2**
 Kogan's sales performance varies across regions in Australia, indicating market strength. However, other markets shouldn't be neglected. Leveraging historical data to tap into diverse regional markets can optimize sales potential. In New Zealand, capital market surveys are overdue, while Papua New Guinea presents opportunities for selling refurbished or low-inventory items to price-conscious consumers.
 
 #### **Finding 3**
